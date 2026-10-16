@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+.idea/
+.nvim
+/data/
+app/frontend/dist/
+
